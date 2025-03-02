@@ -14,8 +14,7 @@
 
 ### 💪 Skills
 <p>
-  <img src="[https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=FFFFFF
-)"/>
+  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
