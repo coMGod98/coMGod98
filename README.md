@@ -13,13 +13,17 @@
 ### :book: Education
 <p>
   Gachon Univ (2017.03 ~ 2024.02)
-  Atents Game Academy (2024.05 ~ 2024.09)
+</p>
+<p>
+    Atents Game Academy (2024.05 ~ 2024.09)
 </p>
 
 ### :computer: Project
 <p>
   [Zombie Survivor](https://github.com/coMGod98/Zombie-Survivor)
-  [The Guardians](https://github.com/coMGod98/The-Guadians)
+</p>
+<p>
+    [The Guardians](https://github.com/coMGod98/The-Guadians)
 </p>
 
 ### 💪 Skills
