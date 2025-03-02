@@ -1,5 +1,5 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> <:raised_hands:></:raised_hands:> About me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hi, I'm Hyuncheol Son who is interested in game client developer from South Korea.</li></li>If you want to contact me, please leave a message. </div> 
     </div>
     <div style="text-align: left;">
@@ -10,8 +10,6 @@
     <div style="text-align: left;">  </div> 
     </div>
     
-
-## Hi there 👋
 
 <!--
 **coMGod98/coMGod98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
