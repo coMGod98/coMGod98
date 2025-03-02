@@ -19,14 +19,9 @@
 </p>
 
 ### :computer: Project
-[Zombie Survivor](https://github.com/coMGod98/Zombie-Survivor)
-<p>
-    (2024.10 ~ 2025.01)
-</p>
-[The Guardians](https://github.com/coMGod98/The-Guadians)
-<p>
-    (2024.06 ~ 2024.08)
-</p>
+[Zombie Survivor](https://github.com/coMGod98/Zombie-Survivor) </t> (2024.10 ~ 2025.01)
+
+[The Guardians](https://github.com/coMGod98/The-Guadians) </t> (2024.06 ~ 2024.08)
 
 ### 💪 Skills
 <p>
