@@ -13,10 +13,9 @@
 
 ### 💪 Skills
 <p>
-  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=%23FFFFFF">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-FFFFFF?style=flat&logo=C%23&logoColor=%23512BD4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=%23FFFFFF">
 </p>
