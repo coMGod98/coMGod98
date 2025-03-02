@@ -23,6 +23,6 @@
 ### 💪 Skills
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=%23FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-FFFFFF?style=flat&logo=C%23&logoColor=%23512BD4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-FFFFFF?style=flat&logo=csharp&logoColor=%23512BD4">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=%23FFFFFF">
 </p>
