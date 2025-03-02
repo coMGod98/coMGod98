@@ -1,8 +1,9 @@
 
 ### 🤞 About me
 <p>
-  <a href="https://toward-the-future.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=tistory&logoColor=eb531f"/></a>
   <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/comgod98@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://toward-the-future.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-whitef?style=flat-square&logo=tistory&logoColor=eb531f"/></a>
+  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youtube-white?style=flat-square&logo=youtube&logoColor=FF0000"/></a>
 </p>
 
 <p>
